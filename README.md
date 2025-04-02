@@ -50,9 +50,9 @@ I’m a *Computer Engineering student at FIAP* and a technology enthusiast. I lo
 
 ### 📬 Let's Connect!
 
-📩 **Email**: [amandaballetworks@gmail.com] 
+📩 **Email**: [amandaballetworks@gmail.com](amandaballetworks@gmail.com)  
 🌐 **Portfolio**: [amandaballet.dev](#) *(under construction! 🚧)*  
-💼 **LinkedIn**: [[www.linkedin.com/in/amanda-ballet](https://www.linkedin.com/in/amanda-ballet/)](#)  
+💼 **LinkedIn**: [linkedin.com/in/amanda-ballet](www.linkedin.com/in/amanda-ballet)  
 📺 **YouTube**: [Think and Create](#) *(Coming soon!)*  
 
 Welcome to my GitHub! ⭐ If you're interested in any project, feel free to contribute! 😃
