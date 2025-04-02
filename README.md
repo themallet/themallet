@@ -9,7 +9,7 @@ I’m a *Computer Engineering student at FIAP* and a technology enthusiast. I lo
 
 💡 **Programming Languages**: Python, C++, Java, C, JavaScript (React, Node.js)  
 🔌 **Hardware**: ESP32, Raspberry Pi, RFID, PCA9685, sensors, and actuators  
-🎨 **Design & 3D Modeling**: Blender, Fusion 360, 3D printing  
+🎨 **Design & 3D Modeling**: Blender, Fusion 360, 3D printing, SolidWorks  
 🔐 **Cybersecurity**: Ethical Hacking, Capture The Flag (CTF), Hack The Box  
 ⚡ **Others**: Git/GitHub, Linux, APIs, Artificial Intelligence (Machine Learning, Gradient Descent)  
 
