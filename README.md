@@ -1,77 +1,105 @@
 <div align="center">
 
-# Amanda Ballet
+# Amanda Maia Ballet
 
-**Computer Engineering @ FIAP · Frontend & automation**
+**AI × Hardware × Software** — Computer Engineering @ FIAP
 
-I ship interfaces that survive contact with real users, and I automate the parts of the pipeline nobody should be doing by hand.
+São Paulo, Brazil 🇧🇷
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amanda--ballet-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-ballet)
-[![Email](https://img.shields.io/badge/Email-amandaballetworks%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amandaballetworks@gmail.com)
+[GitHub](https://github.com/themallet) · [LinkedIn](https://www.linkedin.com/in/amanda-ballet/) · [amandaballetworks@gmail.com](mailto:amandaballetworks@gmail.com)
 
 </div>
 
 ---
 
-## Currently building
+## 01 / About me
 
-### [QuotePilot](https://github.com/NewByteGroup/QuotePilot) · NewByte
+I'm a Computer Engineering student at FIAP and a Full-Stack Development & AI Intern at Festo. I work at the intersection of intelligent software and real-world engineering: from microcontrollers and sensors to AI-powered web applications and cloud integrations.
 
-Freight quote requests arrive as messy emails with half the fields missing. QuotePilot reads them, prices them, and returns an auditable proposal in minutes instead of the 24–48 h the market takes.
+- 🤖 **What I build** — intelligent robotics, industrial automation, computer vision, IoT systems and applied AI.
+- 💼 **At Festo** — full-stack solutions and AI workflows in Python, React, APIs and cloud, including generative AI and intelligent agents.
+- 🏆 **Track record** — three FIAP NEXT podium finishes across four consecutive editions, plus a Google Cloud GenAI hackathon podium.
+- 🧠 **Current interests** — edge/offline AI, RAG, AI agents, embedded systems, cybersecurity and Industry 4.0.
+- 🎓 **Education** — B.Eng. in Computer Engineering · FIAP · 2023–2027.
 
-Multi-tenant B2B SaaS — **Go · Python · React · PostgreSQL** — built by three people for **Hack Brasil 2026**.
-
-My slice: the web app, the Resend mail flow (inbound and outbound), and the Devin operations that keep the tariff connectors alive when a portal changes its layout.
+**My engineering philosophy:** build beyond the demo. Make the hardware, software and intelligence work together in the real world.
 
 ---
 
-## Selected projects
+## 02 / Achievements unlocked
 
-| Project | What it is | Stack |
+| Year | Recognition | Challenge and contribution |
 |---|---|---|
-| [MarcacaoDeConsultaMedica](https://github.com/themallet/MarcacaoDeConsultaMedica-3ECR) | Medical appointment scheduling, frontend and backend | TypeScript |
-| [Sistema de Ponto](https://github.com/themallet/Sistema_de_Ponto) | Web time clock: worked hours, late arrivals, per-employee report | React · Vite |
-| [marcacaoDeConsultasMedicas](https://github.com/themallet/marcacaoDeConsultasMedicas-ECB) | The same scheduling domain as a mobile app | React Native · Expo |
-| [api-marcacao-consultas](https://github.com/themallet/api-marcacao-consultas) | REST API behind the scheduling apps | Java |
-| [Developing_Back-End_Python](https://github.com/themallet/Developing_Back-End_Python) | Python backend track — studies and exercises | Python |
-| [Learning_c_and_cpp](https://github.com/themallet/Learning_c_and_cpp) | Memory, pointers, and the fundamentals underneath | C · C++ |
-
----
-
-## Tools I reach for
-
-**Languages** — TypeScript, JavaScript, Python, Java, C, C++
-**Frontend** — React, React Native, Vite, HTML/CSS
-**Backend & infra** — Node.js, REST APIs, PostgreSQL, Git, Linux
-**Automation** — CI pipelines, email infrastructure (Resend), scraping (Firecrawl), agent operations (Devin)
-**Hardware** — ESP32, Raspberry Pi, RFID, PCA9685, sensors and actuators
-**Design & 3D** — Blender, Fusion 360, SolidWorks, 3D printing
-**Security** — ethical hacking, CTF, Hack The Box
-
----
-
-## Background
-
-**B.Sc. Computer Engineering** — FIAP, 2023–2027
+| 🥇 2026 | **1st — FIAP Challenge / NEXT** | John Deere, with Suzano and Eldorado Brasil · **JD Fixit**: offline diagnostics for field equipment. Firmware and hardware development. |
+| 🥈 2025 | **2nd — FIAP NEXT** | **Festo Digital Twin Challenge** · predictive monitoring of industrial pneumatic systems and AI-assisted insights. |
+| 🥉 2025 | **3rd — Google Cloud GenAI Hackathon** | **VisAI** · a generative-AI accessibility assistant using visual understanding and audio descriptions. |
+| 🥇 2024 | **1st — FIAP NEXT** | SPI + ABDI MetaIndústria / GenAI Champions · autonomous robot using computer vision to recognise and manipulate objects. |
 
 <details>
-<summary><b>Achievements & certifications</b></summary>
+<summary><b>More experience and milestones</b></summary>
 
 <br>
 
-- 🥇 **SPI + ABDI MetaIndústria — GenAI Challenge Champions** (FIAP, 2024)
-- 🏆 **Raízen Innovation Challenge** (FIAP, 2023)
-- 🔬 **Scientific Initiation** (FIAP, 2023)
-- 📜 Certified in **Networks**, **Python**, **C++**, **Linux**
+- **2023** — FIAP Scientific Initiation: educational board-game research applied to medical learning.
+- **2023** — Raízen Innovation Challenge: industry-focused innovation challenge.
+- **2023–2026** — four consecutive FIAP NEXT editions: project development, technical teamwork and hands-on engineering.
 
 </details>
 
 ---
 
-<div align="center">
+## 03 / Featured engineering projects
 
-**Open to internships and junior engineering roles — frontend, backend, or the space between them.**
+**JD Fixit — offline field maintenance assistant** · 🥇 2026
+Offline-first guided troubleshooting for field machinery: safety-controlled diagnostic flows, local AI assistance and hardware integration. My focus — firmware, sensors and embedded hardware.
 
-[amandaballetworks@gmail.com](mailto:amandaballetworks@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amanda-ballet)
+**Industrial Digital Twin — Festo** · 🥈 2025
+Digital twin for a pneumatic pick-and-place system with equipment telemetry, predictive maintenance and AI-assisted monitoring. Reliability and efficiency in Industry 4.0.
 
-</div>
+**VisAI — AI for accessibility** · 🥉 2025
+Generative-AI prototype that describes surroundings and supports accessibility, with visual understanding, contextual descriptions and audio output.
+
+**AI-powered autonomous robot** · 🥇 2024
+Robotic system combining computer vision, sensing and manipulation to identify, pick and move objects. Contributions in hardware integration and team leadership.
+
+**More things I've built** — ESP32 portable console · AI route optimizer (FastAPI + OR-Tools) · Raspberry Pi servo control · RFID experiments · embedded telemetry · industrial IoT · full-stack dashboards.
+
+**Public code** — [time tracking web app](https://github.com/themallet/Sistema_de_Ponto) · [Java REST API](https://github.com/themallet/api-marcacao-consultas) · [C/C++ fundamentals](https://github.com/themallet/Learning_c_and_cpp)
+
+<sub>Award-winning projects were team efforts. Some case studies describe academic or collaborative work whose complete source code is not currently published here.</sub>
+
+---
+
+## 04 / Technical arsenal
+
+| Domain | Stack and capabilities |
+|---|---|
+| **Languages** | Python, C++, C, Java, JavaScript, TypeScript, SQL |
+| **AI & data** | Generative AI, LLMs, RAG, computer vision, YOLO, Scikit-learn, Pandas, NumPy, machine learning |
+| **Backend & cloud** | FastAPI, Java / Spring Boot, REST APIs, AWS, Azure, Apigee, Docker |
+| **Frontend** | React, interactive dashboards, UX-oriented interfaces |
+| **Embedded & robotics** | ESP32, Raspberry Pi 5, Arduino, RFID, servos, industrial sensors, I²C, WebSockets |
+| **Industry & automation** | Digital twins, industrial IoT, telemetry, MQTT / Modbus, predictive maintenance |
+| **Design & security** | CAD / 3D printing, Fusion 360, Blender, Linux, networking, cybersecurity fundamentals |
+
+---
+
+## 05 / Learning, research & beyond
+
+- **Professional experience** — Full-Stack Development & AI Intern at Festo (July 2025–present).
+- **Academic background** — Computer Engineering at FIAP (2023–2027); scientific initiation and industry innovation challenges.
+- **Courses & certifications** — Python, C++, Linux, networking (TCP/IP and Wireshark), AI-related coursework.
+- **Currently studying** — Cisco cybersecurity, deeper Python fundamentals and practical AI engineering.
+- **Things that excite me** — high-performance embedded systems, intelligent machines, edge computing and useful products built from scratch.
+
+---
+
+## 06 / Let's build something meaningful
+
+Engineering is about turning curiosity into systems that actually work.
+
+If you work with AI, robotics, embedded systems, industrial technology or software engineering, I'd love to exchange ideas.
+
+**[amandaballetworks@gmail.com](mailto:amandaballetworks@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amanda-ballet/) · [GitHub](https://github.com/themallet)**
+
+<sub>Built with curiosity, code, sensors and a lot of engineering. Last content update: November 2026.</sub>
