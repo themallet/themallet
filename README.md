@@ -6,7 +6,7 @@
 
 São Paulo, Brazil 🇧🇷
 
-[GitHub](https://github.com/themallet) · [LinkedIn](https://www.linkedin.com/in/amanda-ballet/) · [amandaballetworks@gmail.com](mailto:amandaballetworks@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/amanda-ballet/) · [amandaballetworks@gmail.com](mailto:amandaballetworks@gmail.com)
 
 </div>
 
@@ -100,6 +100,5 @@ Engineering is about turning curiosity into systems that actually work.
 
 If you work with AI, robotics, embedded systems, industrial technology or software engineering, I'd love to exchange ideas.
 
-**[amandaballetworks@gmail.com](mailto:amandaballetworks@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amanda-ballet/) · [GitHub](https://github.com/themallet)**
-
+**[amandaballetworks@gmail.com](mailto:amandaballetworks@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amanda-ballet/) 
 <sub>Built with curiosity, code, sensors and a lot of engineering. Last content update: November 2026.</sub>
